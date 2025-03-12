@@ -1,0 +1,2 @@
+Este projeto tem por objetivo colocar em prática alguns conceitos de lógica de programação.
+Trata-se de um sorteio de amigo secreto. O usuário insere o próprio nome e os nomes dos amigos que participarão do amigo secreto. Após adicionar todos os amigos, o usuário irá clicar no botão "Sortear amigo". Será apresentado o amigo sorteado. Caso o nome sorteado seja seu próprio nome, o sistema irá informar que isso não é permitido e pede para tentar novamente.
